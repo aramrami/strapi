@@ -13,9 +13,9 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/provider-email-mailgun": "4.15.5",
+    "@strapi/provider-email-mailgun": "4.0.0",
     "@strapi/provider-upload-aws-s3": "4.15.5",
-    "@strapi/provider-upload-cloudinary": "4.15.5",
+    "@strapi/provider-upload-cloudinary": "4.0.0",
     "@strapi/strapi": "4.15.5",
     "lodash": "4.17.21",
     "mysql": "2.18.1",
