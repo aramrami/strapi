@@ -112,7 +112,7 @@
     "watch": "pack-up watch"
   },
   "dependencies": {
-    "@koa/cors": "3.4.3",
+    "@koa/cors": "5.0.0",
     "@koa/router": "10.1.1",
     "@strapi/admin": "4.15.5",
     "@strapi/data-transfer": "4.15.5",
@@ -169,7 +169,7 @@
     "package-json": "7.0.0",
     "pkg-up": "3.1.0",
     "qs": "6.11.1",
-    "semver": "7.5.4",
+    "semver": "7.6.0",
     "statuses": "2.0.1",
     "typescript": "5.2.2",
     "yup": "0.32.9"
