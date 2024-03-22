@@ -42,9 +42,9 @@
   },
   "dependencies": {
     "@strapi/logger": "4.15.5",
-    "@strapi/strapi": "4.15.5",
-    "@strapi/types": "4.15.5",
-    "@strapi/utils": "4.15.5",
+    "@strapi/strapi": "4.0.0",
+    "@strapi/types": "0.0.0",
+    "@strapi/utils": "4.0.0",
     "chalk": "4.1.2",
     "cli-table3": "0.6.2",
     "commander": "8.3.0",
@@ -56,13 +56,13 @@
     "semver": "7.5.4",
     "stream-chain": "2.2.5",
     "stream-json": "1.8.0",
-    "tar": "6.1.13",
+    "tar": "6.2.1",
     "tar-stream": "2.2.0",
     "ws": "8.13.0"
   },
   "devDependencies": {
     "@strapi/pack-up": "4.15.5",
-    "@strapi/strapi": "4.15.5",
+    "@strapi/strapi": "4.0.0",
     "@types/fs-extra": "9.0.13",
     "@types/jest": "29.5.2",
     "@types/koa": "2.13.4",
