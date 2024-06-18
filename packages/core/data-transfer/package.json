@@ -53,12 +53,12 @@
     "lodash": "4.17.21",
     "ora": "5.4.1",
     "resolve-cwd": "3.0.0",
-    "semver": "7.5.4",
+    "semver": "7.6.0",
     "stream-chain": "2.2.5",
     "stream-json": "1.8.0",
-    "tar": "6.1.13",
+    "tar": "6.2.1",
     "tar-stream": "2.2.0",
-    "ws": "8.13.0"
+    "ws": "8.17.1"
   },
   "devDependencies": {
     "@strapi/pack-up": "4.15.5",
