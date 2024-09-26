@@ -117,7 +117,7 @@
     "@strapi/admin": "4.15.5",
     "@strapi/data-transfer": "4.15.5",
     "@strapi/database": "4.15.5",
-    "@strapi/generate-new": "4.15.5",
+    "@strapi/generate-new": "4.25.12",
     "@strapi/generators": "4.15.5",
     "@strapi/logger": "4.15.5",
     "@strapi/pack-up": "4.15.5",
