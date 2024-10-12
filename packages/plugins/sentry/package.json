@@ -44,9 +44,9 @@
     "watch": "pack-up watch"
   },
   "dependencies": {
-    "@sentry/node": "6.19.7",
+    "@sentry/node": "7.75.0",
     "@strapi/design-system": "1.13.2",
-    "@strapi/helper-plugin": "4.15.5",
+    "@strapi/helper-plugin": "4.0.0",
     "@strapi/icons": "1.13.2"
   },
   "devDependencies": {
