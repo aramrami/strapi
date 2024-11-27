@@ -76,11 +76,11 @@
     "outdent": "0.8.0",
     "pkg-up": "3.1.0",
     "prettier": "2.8.4",
-    "prettier-plugin-packagejson": "2.4.5",
+    "prettier-plugin-packagejson": "2.5.4",
     "prompts": "2.4.2",
     "rxjs": "7.8.1",
     "typescript": "5.2.2",
-    "vite": "4.4.9",
+    "vite": "6.0.0",
     "yup": "0.32.9"
   },
   "devDependencies": {
