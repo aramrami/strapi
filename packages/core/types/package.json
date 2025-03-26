@@ -49,7 +49,7 @@
     "@koa/router": "10.1.1",
     "@strapi/database": "4.15.5",
     "@strapi/logger": "4.15.5",
-    "@strapi/permissions": "4.15.5",
+    "@strapi/permissions": "0.0.0",
     "@strapi/utils": "4.15.5",
     "commander": "8.3.0",
     "https-proxy-agent": "5.0.1",
