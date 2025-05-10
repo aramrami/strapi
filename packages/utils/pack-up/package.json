@@ -80,8 +80,8 @@
     "prompts": "2.4.2",
     "rxjs": "7.8.1",
     "typescript": "5.2.2",
-    "vite": "4.4.9",
-    "yup": "0.32.9"
+    "vite": "4.5.14",
+    "yup": "1.0.0"
   },
   "devDependencies": {
     "@strapi/pack-up": "4.15.5",
