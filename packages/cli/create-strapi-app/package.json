@@ -46,7 +46,7 @@
   "dependencies": {
     "@strapi/generate-new": "4.15.5",
     "commander": "8.3.0",
-    "inquirer": "8.2.5"
+    "inquirer": "8.2.7"
   },
   "devDependencies": {
     "@strapi/pack-up": "4.15.5",
