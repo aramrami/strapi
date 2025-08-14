@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@strapi/design-system": "1.13.2",
-    "@strapi/helper-plugin": "4.15.5",
+    "@strapi/helper-plugin": "4.0.0",
     "@strapi/icons": "1.13.2",
     "@strapi/utils": "4.15.5",
     "bcryptjs": "2.4.3",
